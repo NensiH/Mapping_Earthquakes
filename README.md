@@ -32,8 +32,6 @@ The final map shows the following:
 2. The earthquake and tectonic plate data are displayed when the page loads and the datasets can be toggled on or off
 3. All the earthquake data and tectonic plate data are displayed on the all maps of the webpage
 
-### **Link to Interactive Maps webpage**
-The deployed webpage is accessible at https://nensih.github.io/Mapping_Earthquakes/
 
 ### Interactive Maps Views:
 
